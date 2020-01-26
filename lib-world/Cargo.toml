@@ -1,0 +1,9 @@
+[package]
+name = "lib-world"
+version = "0.1.0"
+authors = ["Jabir-Abbas <jabir.abbas1@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
